@@ -1,0 +1,47 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" type="image/x-icon" href="icon.png">
+    <title>As Melhores Receitas</title>
+ <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <header>
+        
+        
+    </header>
+    <title>Document</title>
+</head>
+<body>
+    <header>
+    <background-image:url(./cooking.jpg);">
+        <title>As Melhores Receitas</title>
+        <h1>Receitas Mais Populares :</h1>
+    </header>
+    <section>
+        
+      <div>
+        
+        <a href="https://www.tudogostoso.com.br/receita/132560-pato-no-tucupi-tradicional-do-para.html">Pato no Tucupi</a></li>
+        
+        <img src="pato.jpg" alt="" height="130px" width="180" position="center">
+        </div>
+        <div>
+        <a href="https://www.tudogostoso.com.br/receita/141741-costela-na-panela-de-pressao.html">Costela na Pressão</a></li>
+      
+        <img src="costela.webp" alt="" height="130px" width="180">
+       </div>
+        <div><a href="https://charcutaria.org/carnes/linguica-caseira-de-pernil-com-pimenta-jalapenho/">Linguiça Caseira</a></li>
+        <img src="linguiça.jpg" alt="" height="130px" width="180">
+       </div>
+        <div><a href="https://www.tudogostoso.com.br/receita/145227-file-de-frango-a-parmegiana.html">Frango à Parmegiana</a></li>
+       
+        <img src="frangoparmegiana.jpg" alt="" height="130px" width="180">
+    </div>
+    <button><a href="https://www.tudogostoso.com.br/">Clique Aqui Para mais Receitas</a></button>
+    </section>
+    
+
+</body>
+</html>
